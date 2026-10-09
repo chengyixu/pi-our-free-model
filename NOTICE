@@ -1,0 +1,18 @@
+Pi Our Free Model is an independent Pi-native implementation inspired by
+https://github.com/Ebony-Vinyl/dsh-our-free-model (MIT, Copyright 2026 Ebony-Vinyl).
+Inspected source revision: f8974369c5904858c696b520d8b9b82ad4425f78.
+
+The upstream project documented Kilo's isFree model slice, public gateway,
+reasoning object, mandatory-thinking model families, privacy disclosure and
+incorrect SSE Content-Type behavior. These researched protocol conventions
+informed this implementation. No DSH runtime, sealed EAC credentials, account
+pool, upstream executable bundle, client-fingerprint impersonation, or vendor
+artwork is distributed here. Original attribution is retained in LICENSE.
+
+Pi-hosted API implementations and built-in metadata are provided by
+@earendil-works/pi-ai, licensed by their respective copyright holders. Those
+libraries are peer dependencies, not bundled into this extension.
+
+The icon, hero, social preview and illustrated walkthrough are original vector
+artwork for this project, distributed under the repository's MIT license.
+Vendor names identify upstream services and do not imply endorsement.
