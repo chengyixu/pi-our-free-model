@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Our Free Model — native public free-model providers for Pi"><rect width="1280" height="640" fill="#f7f6ee"/><g font-family="Helvetica, Arial, sans-serif" fill="#163c32">
+<rect x="860" y="72" width="330" height="330" rx="70" fill="#163c32"/>
+<path d="M1110 132a112 112 0 1 0 12 220" stroke="#d9edb2" stroke-width="24" fill="none" stroke-linecap="round"/>
+<path d="m977 202 44 44-44 44M1040 290h42" stroke="#f7f6ee" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="90" font-size="19" letter-spacing="2">NATIVE TO PI</text><text x="65" y="217" font-size="78" font-weight="700">Our Free Model.</text>
+<text x="70" y="288" font-size="32">Public models. Your terminal.</text><text x="70" y="377" font-size="23" fill="#486458">No Kilo account or API key required.</text>
+<rect x="70" y="461" width="1140" height="68" rx="8" fill="#163c32"/><text x="91" y="503" font-size="22" font-family="Menlo, monospace" fill="#f7f6ee">pi install git:github.com/chengyixu/pi-our-free-model</text>
+<text x="70" y="589" font-size="17" fill="#486458">LIVE DISCOVERY / STREAMING / TOOL CALLS / MIT</text><text x="898" y="589" font-size="15" fill="#486458">Respect upstream limits and privacy.</text></g></svg>

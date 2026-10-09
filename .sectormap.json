@@ -1,0 +1,15 @@
+{
+  "label": "Pi Our Free Model (TypeScript provider extension)",
+  "lang": "ts",
+  "src_base": "",
+  "test_base": "test",
+  "sectors": [{ "id": "free-model-provider", "root": "src" }],
+  "behavior": [
+    ["isFree !== true", "Only explicitly free Kilo models are exposed"],
+    ["headers.delete\\(\"authorization\"\\)", "Keyless Kilo requests never send Authorization"],
+    ["maxRetries: 0", "No hidden SDK replay of inference"],
+    ["publish", "Pi owns transactional catalog persistence"],
+    ["signal", "Network operations honor cancellation"]
+  ],
+  "boundaries_global": ["Pi owns auth, session history, catalog persistence and distribution", "Kilo public gateway; optional authorized OpenCode gateway"]
+}

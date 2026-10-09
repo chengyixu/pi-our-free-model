@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-label="Pi Our Free Model — public free models in your terminal"><rect width="1600" height="820" fill="#f7f6ee"/><g font-family="Helvetica, Arial, sans-serif" fill="#163c32">
+<path d="M1115 112a250 250 0 1 0 123 464" fill="none" stroke="#dfe8d5" stroke-width="75"/>
+<path d="M1115 112a250 250 0 0 0-247 322" fill="none" stroke="#163c32" stroke-width="75"/>
+<circle cx="1270" cy="179" r="36" fill="#b8d780"/><path d="m965 302 62 62-62 62M1058 426h68" fill="none" stroke="#163c32" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="100" font-size="19" letter-spacing="3">A NATIVE PI EXTENSION / 01</text>
+<text x="86" y="252" font-size="90" font-weight="700">Our Free Model.</text>
+<text x="90" y="325" font-size="36">Public models. Your terminal.</text>
+<text x="90" y="418" font-size="23" fill="#486458">Discover the free pool. Keep Pi’s tools and streaming.</text>
+<text x="90" y="455" font-size="23" fill="#486458">No Kilo account. No API key.</text>
+<rect x="90" y="528" width="760" height="115" rx="9" fill="#163c32"/>
+<text x="114" y="563" font-size="14" letter-spacing="2" fill="#c8dcad">INSTALL IN PI</text>
+<text x="114" y="605" font-size="20" font-family="Menlo, monospace" fill="#f7f6ee">pi install git:github.com/chengyixu/pi-our-free-model</text>
+<path d="M90 706H1510" stroke="#cbd2c2"/><text x="90" y="753" font-size="18">LIVE DISCOVERY</text><text x="355" y="753" font-size="18">NATIVE TOOL CALLS</text><text x="660" y="753" font-size="18">OPEN SOURCE · MIT</text>
+<text x="1170" y="753" font-size="14" fill="#486458">Free tiers can log prompts and rate-limit.</text></g></svg>
